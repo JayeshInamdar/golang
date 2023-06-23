@@ -1,6 +1,6 @@
 # Welcome to GoLang Exercises :rocket:
 
-This is your Visual Studio Code editor  where you will practice developing your GoLang Programs.
+You can use Visual Studio Code editor or any IDE where you will practice developing your GoLang Programs.
 <br/>
 
 Instructions :
